@@ -1,5 +1,7 @@
 # anatomy_day_flutter2
-
+<p>
+  <img src="https://github.com/Krupaparmar30/anatomy_day_flutter2/assets/149374671/dd60bcb3-f6b8-4379-befa-bbc0e7af9221"width=22% height=35%>
+</p>
 A new Flutter project.
 
 ## Getting Started
